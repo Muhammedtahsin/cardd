@@ -1,0 +1,30 @@
+body{
+margin: 20px;
+font-family: cursive
+}
+
+
+.blackcap{
+width: 150px;
+border-radius: 80px;
+border: solid rgb(197, 178, 214) 3px;
+}
+
+.card{    
+padding: 20px;
+display: flex;
+justify-content: space-around;
+width: 400px;
+margin: 0 auto;
+background-color: rgba(121, 171, 222, 0.301);
+color: black;
+border: 8px solid rgba(128, 0, 128, 0.176);
+
+
+}
+
+.nusin{
+text-align: center;
+
+
+}
